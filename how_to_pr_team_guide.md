@@ -60,7 +60,7 @@ git diff
 
 ## Steg 4 Stage (Lägg till det du MENAR)
 - A) Du har ändrat en befintlig fil (rekommenderat)  
-`git add -p`  
+`git add -p` (eller git add <filnamn>)
 **Varför?**   
 - Du undviker att 'råka' lägga med skräp(data, secrets, random filer etc)  
 
